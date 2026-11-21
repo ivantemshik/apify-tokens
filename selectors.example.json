@@ -1,0 +1,14 @@
+{
+  "email": "input[type=\"email\"], input[name=\"email\"]",
+  "password": "input[type=\"password\"]",
+  "name": "input[name=\"name\"], input[name=\"fullName\"], input[name=\"full_name\"], input[autocomplete=\"name\"], input[placeholder*=\"name\" i]",
+  "next": "button:has-text(\"Next\")",
+  "signup": "button:has-text(\"Sign up\"), button:has-text(\"Create account\")",
+  "login": "button:has-text(\"Log in\"), button:has-text(\"Sign in\")",
+  "verificationText": "Check your email|verification email|verify your email|confirm your email",
+  "newToken": "button:has-text(\"Create a new token\")",
+  "tokenDialog": "[role=\"dialog\"]",
+  "tokenDescription": "input[name=\"description\"], input[placeholder*=\"description\" i]",
+  "createToken": "button:text-is(\"Create\")",
+  "integrationsUrl": "https://console.apify.com/settings/integrations"
+}

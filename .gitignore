@@ -1,0 +1,15 @@
+node_modules/
+.env*
+!.env.example
+accounts.jsonl
+data/
+exports/
+*.log
+.secrets/
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+profiles/
+test-results/
+playwright-report/
